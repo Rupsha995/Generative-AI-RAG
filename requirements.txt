@@ -1,0 +1,11 @@
+pandas
+numpy
+datasets
+rank-bm25
+scikit-learn
+sentence-transformers
+transformers
+torch
+rouge-score
+streamlit
+anthropic   # optional: only needed for the API summarizer backend
